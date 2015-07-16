@@ -1,0 +1,19 @@
+# ############################
+# ##### BEDWARS RELOADED #####
+# ########## BUNGEE ##########
+# ############################
+
+# Sign update interval
+# The interval in which the signs will be updated
+# in seconds
+update-interval: 10.0
+
+# Sign configuration
+sign:
+    # First line on sign
+    # Placeholders:
+    #   $gamename$          = Name of the game
+    #   $regionname$        = Name of the region
+    #   $maxplayers$        = The maximum players in this game
+    #   $currentplayers$    = The current number of players in the game
+    #   $status$            = The status of the game
